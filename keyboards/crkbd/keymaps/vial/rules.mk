@@ -8,4 +8,4 @@ EXTRAKEY_ENABLE     = yes
 LTO_ENABLE          = yes
 QMK_SETTINGS        = no
 COMBO_ENABLE        = no
-
+VIAL_UNLOCKED       = yes
